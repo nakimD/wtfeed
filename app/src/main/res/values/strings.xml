@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">wtfeed</string>
+    <string name="facebook_app_id">2649118688749715</string>
+    <string name="connect">Se connecter</string>
+</resources>
